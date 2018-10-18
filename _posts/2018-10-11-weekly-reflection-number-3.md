@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Third Post"
-date: 10/11/2018
+date: 2018/10/11
 ---
 
 This week in APCSS, we worked on Pyrat some more. This week we focused on making simple shapes and then using those shapes and putting 
